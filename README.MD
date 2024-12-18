@@ -1,1 +1,1 @@
-ECHO est† activado.
+Este archivo es para informaci√≥n subida con tags.
